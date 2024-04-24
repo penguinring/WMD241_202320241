@@ -318,9 +318,9 @@ p {
 
 .box2 {
   width: 72rem;
-  height: 44.5117rem;
+  height: 62.5rem;
   padding-top: 6rem;
-  padding-bottom: 5rem;
+  padding-bottom: 6.25rem;
   padding-inline: 1.5rem;
   border-top: 0.0625rem solid #464951;
 }
@@ -388,5 +388,7 @@ h4 {
 }
 
 .container_3 {
+  display: flex;
+  max-width: 100vh;
   background-color: #000000;
 }

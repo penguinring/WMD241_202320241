@@ -327,8 +327,8 @@ p {
 
 h2 {
   width: 35rem;
-  hight: 9.625rem;
-  font-size: 9.375rem;
+  height: 9.625rem;
+  font-size: 3.125rem;
   margin-bottom: 1rem;
   margin-top: 0;
 }
@@ -385,8 +385,4 @@ h4 {
 .container_3 > * {
   list-style: none;
   margin-left: 0;
-}
-
-.container_3 {
-  background-color: #000000;
 }
